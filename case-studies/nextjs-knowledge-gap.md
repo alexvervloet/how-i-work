@@ -45,7 +45,7 @@ The deck became a reference doc, and we used it to onboard engineers who joined 
 
 ## What I took from it
 
-**Closing a gap nobody has labeled a blocker is underrated leadership.** Most teams have one at any given time. A technology nobody fully understands, a corner of the codebase everyone routes around, a process everyone agrees is broken and nobody owns. Fixing one of those quietly beats shipping a visible feature, and it's much less contested territory.
+**Closing a gap nobody has labeled a blocker is underrated leadership.** Most teams have one at any given time. A technology nobody fully understands, a corner of the codebase everyone routes around, a process everyone agrees is broken and nobody owns. Fixing one of those beats shipping a visible feature, and far fewer people are competing for the work.
 
 **Teach the why and the how comes cheap.** Give someone the historical and conceptual context for a tool and they can reason about situations you never showed them. Give them only the syntax and they're stuck the moment reality diverges from the example.
 
