@@ -44,7 +44,7 @@ In my last year I went after backend work rather than waiting to be handed it. T
 
 ## What I've built since
 
-I left VeVe in November 2025 and spent the next several months applying for frontend and fullstack roles without much traction. By spring I'd stopped applying and started asking why. The honest answer was that I was chasing a version of the job that's shrinking, and that I had opinions about AI engineering without any real understanding of it, which is a bad place to argue from.
+I left VeVe in November 2025 and spent a couple of months applying for frontend and fullstack roles without much traction. February and March went to a family medical emergency and very little else. When I came back to it in the spring I stopped applying and started asking why. The honest answer was that I was chasing a version of the job that's shrinking, and that I had opinions about AI engineering without any real understanding of it, which is a bad place to argue from.
 
 So I went back to fundamentals rather than back to the job boards. Python properly, from data structures up through FastAPI, databases, auth and messaging, which turned into [a public learning resource](https://github.com/alexvervloet/learning-python-backends) of about 740 commits. Then [the same for JavaScript](https://github.com/alexvervloet/learn-javascript-backend-engineering). Then small experiments to find where the edges were. [StudyRAG](https://github.com/alexvervloet/StudyRAG) in April was my first go at retrieval, and by July I was writing [rag-at-scale](https://github.com/alexvervloet/rag-at-scale) about what breaks between four documents and five million chunks. That gap is roughly the shape of the last six months.
 
