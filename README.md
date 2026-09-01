@@ -30,6 +30,18 @@ What I'm not looking for is a queue of tickets with the interesting decisions al
 
 ---
 
+## What I built
+
+The case studies below are mostly about decisions, arguments and people. Here's the code side, which they don't cover.
+
+I was hired at VeVe as a junior engineer and left as a lead. In between I worked on every feature the platform shipped, across the web apps and the native app, which as far as I know made me the only engineer who'd touched all of it. I was Lead Engineer for Web v1.
+
+Two things I built alone: the VeVe Wallet app, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
+
+In my last year I went after backend work rather than waiting to be handed it. That turned into the backend for our Comic Sets release and a production flaw in Autopay that I found and fixed. I ran a team's daily updates as Scrum Master through 2023, and built the Next.js education covered below.
+
+---
+
 ## A user guide to me
 
 How I work, what I'm good for, and how to get the best out of me. Worth reading first.
@@ -62,7 +74,7 @@ A migration that needed framework fluency the team didn't have yet. I built and 
 
 ### [Making the case for my own retention](./case-studies/retention-letter.md)
 
-One document combining strategic feedback with self-advocacy. Leadership reversed a decision that had already been made.
+One document combining strategic feedback with self-advocacy. Leadership reversed a decision that had already been made. Includes a [redacted excerpt of the letter](./case-studies/artifacts/retention-letter-excerpt.md).
 
 *Stakeholder communication · Persuasive writing · Strategic framing*
 
