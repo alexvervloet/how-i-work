@@ -57,8 +57,6 @@ What happened in between is the part I'd point to. The strategic half of the let
 
 **Let other people make your argument.** The strongest page in the letter was the one I didn't write. Six colleagues had said generous things to me over the previous year and I'd kept them. Quoted at the end, attributed, they turned my claims into corroboration. Save the nice messages people send you. Not for your ego, for the day you need evidence.
 
-**Know the audience better than you know yourself.** I wasn't writing to convince me. I was writing for four people under pressure, and every sentence had to earn its place by their standards.
-
 **The hardest thing to write is usually the most clarifying.** I'd spent six years contributing in ways I'd never named out loud. Putting them in one document with evidence attached was uncomfortable and easily the most useful professional exercise I've done. I'd recommend it to anyone, employed or not.
 
 **Winning the argument is not the same as changing the outcome.** The case landed, and months later the business went where it was always going to go for reasons that had nothing to do with me or the letter. Worth knowing before you write something like this. I'd still write it again, and I'd send it to the same people.
