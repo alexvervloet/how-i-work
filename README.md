@@ -36,7 +36,7 @@ The case studies below are mostly about decisions, arguments and people. Here's 
 
 I was hired at VeVe as a junior engineer and left as a lead. In between I worked on every feature the platform shipped, across the web apps and the native app, which as far as I know made me the only engineer who'd touched all of it. I was Lead Engineer for Web v1.
 
-Two things I built alone: the VeVe Wallet app, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
+I built the frontend of the VeVe web wallet on my own, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
 
 In my last year I went after backend work rather than waiting to be handed it. That turned into the backend for our Comic Sets release and a production flaw in Autopay that I found and fixed. I ran a team's daily updates as Scrum Master through 2023, and built the Next.js education covered below.
 
