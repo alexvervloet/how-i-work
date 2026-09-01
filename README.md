@@ -22,7 +22,7 @@ From August 2019 to November 2025 I was at VeVe, a Web3 collectibles platform wi
 
 ## What I'm looking for
 
-Roles where the engineer sits close to the people the software is for. Depending on the company that's called Forward Deployed Engineer, AI Engineer, fullstack, or a frontend role with real product ownership attached. The title matters less to me than whether I get to talk to users, build the thing, and push back on what we're building rather than only on how fast.
+Roles where the engineer sits close to the people the software is for. Depending on the company that's called Forward Deployed Engineer, AI Engineer, fullstack, or a frontend role with real product ownership attached. The AI work is the newest of those and the least visible on a resume, so it has [its own section below](#what-ive-built-since). The title matters less to me than whether I get to talk to users, build the thing, and push back on what we're building rather than only on how fast.
 
 That's the job this repo is evidence for. The case studies are less about code I wrote than about decisions I changed and gaps I closed on behalf of people who weren't in the room.
 
@@ -42,6 +42,22 @@ In my last year I went after backend work rather than waiting to be handed it. T
 
 ---
 
+## What I've built since
+
+I left VeVe at the end of 2025 and spent the time since going deep on AI engineering, mostly by building things rather than reading about them. Fifteen repositories, around 1,470 commits and 51,000 lines since June 2026. Five carry their own eval suites, eight run CI, and three are deployed and reachable right now.
+
+The ones I'd start with:
+
+- **[Deskhand](https://github.com/alexvervloet/deskhand)** ([live](https://deskhand.fly.dev)) is a durable agent runtime for support operations, where the agent is allowed to refund money and the machinery around it makes that defensible. [Case study below](#case-studies).
+- **[Knowledge Desk](https://github.com/alexvervloet/knowledge-desk)** ([live](https://knowledge-desk.fly.dev)) is a multi-tenant knowledge assistant where a question can only reach documents the asker is allowed to see, enforced three independent times so no single missed filter leaks data.
+- **[askrepo-live](https://github.com/alexvervloet/askrepo-live)** ([live](https://askrepo-live.fly.dev)) is a streaming chat UI over a pre-indexed set of my own repositories, behind a FastAPI gateway.
+- **[rag-at-scale](https://github.com/alexvervloet/rag-at-scale)** asks what breaks between four documents and five million chunks, which is the question interviews actually ask.
+- **[model-swap](https://github.com/alexvervloet/model-swap)** measures what a forced model migration costs on a live app, for when the model you tuned on gets retired and the eval suite is green either way.
+
+There's also an [AI engineering deep-dive series](https://github.com/alexvervloet/ai-engineering-deep-dive), twenty-four build-it-from-scratch courses covering RAG, evals, agents, prompt injection, fine-tuning, observability and the rest. That's the same instinct as the Next.js session at VeVe, which is the one below that leadership didn't ask me for either.
+
+---
+
 ## A user guide to me
 
 How I work, what I'm good for, and how to get the best out of me. Worth reading first.
@@ -52,13 +68,19 @@ How I work, what I'm good for, and how to get the best out of me. Worth reading 
 
 ## Case studies
 
-Five stories from real work, each about a different skill.
+Six stories from real work, each about a different skill.
 
 ### [Building a communication standard across a 100-person org](./case-studies/communication-standard.md)
 
 A document I built with cross-functional input that became the company's communication standard. Still in use after I left.
 
 *Stakeholder synthesis · Change management · Cross-functional facilitation*
+
+### [Building an agent runtime that can be trusted with irreversible actions](./case-studies/deskhand.md)
+
+A support agent allowed to refund money, and the five invariants that make that defensible. Each one has a test that attacks it rather than confirming it. Includes the bug where a search failure became a permissions failure.
+
+*Agent runtime design · Prompt injection defence · Eval design*
 
 ### [Making token swapping safe for people who had never used a wallet](./case-studies/veve-wallet.md)
 
@@ -90,9 +112,11 @@ One document combining strategic feedback with self-advocacy. Leadership reverse
 
 Reading these back, a few patterns show up that I hadn't consciously noticed.
 
-**I go after the problems nobody owns.** Three of the five started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
+**I go after the problems nobody owns.** Four of the six started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
 
 **I think in scope.** I'm usually the person asking whether the thing being proposed is the right size. Sometimes that's an argument for less. Sometimes it's an argument for more context, more QA, more teaching. Either way it's about matching the work to the actual goal rather than to whatever got assumed in the first meeting.
+
+**I keep ending up teaching.** The Next.js session at VeVe was unasked for, and so are the twenty-four deep-dive courses I've written since. I don't think this is generosity so much as the way I learn. I don't trust that I understand something until I've had to explain it to someone who'll ask why.
 
 **The work I'm proudest of stopped needing me.** The communication doc is still in use at a company I left in 2025. The wallet has been in production for four years without needing me back. Neither is a thing I could have optimised for directly, but both came from the same habit of spending longer than felt reasonable on the parts nobody would see.
 
