@@ -4,7 +4,7 @@
 
 **Role:** Frontend Engineer, web wallet
 **Company:** VeVe (Orbis Blockchain Technologies)
-**Timeframe:** 2021-2022
+**Timeframe:** 2021-2022, still in production
 **Skills:** Web3 frontend · Transaction signing UX · Designing for irreversible actions
 
 ---
@@ -33,13 +33,15 @@ For a crypto-native audience you can leave some of those states ambiguous and th
 
 ## What happened
 
-It shipped, and it was the wallet VeVe token holders used for OMI through 2021 and 2022. I kept extending it across that period.
+It shipped, and I built and extended it through 2021 and 2022. Then I stopped needing to touch it.
 
-The clearest signal was what didn't happen. A wallet aimed at people who've never used one is a support-load problem waiting to happen, and the failure mode I was most worried about, users stuck mid-transaction with no idea what state they were in, never turned into the flood it could have been.
+**It's still in production today, four years later, and still holding up.** I left the company at the end of 2025 and it outlasted me there too. That's the outcome I'd point to, and it's downstream of the state handling rather than separate from it. A wallet that guesses wrong about failure states generates support tickets forever and pulls an engineer back to it every quarter. Getting those states right up front is what bought the four years of silence.
 
 ## What I took from it
 
 **Irreversibility changes the entire design brief.** In most software a confusing screen costs the user a minute. Here it cost them money that no one could refund. That single property should drive every decision about confirmation steps, wording, and how loudly the interface states what's about to happen. It's the reason this was harder than the feature list makes it look.
+
+**Front-loaded work on failure states is what buys you silence later.** I can't prove the counterfactual, but I know which parts of that codebase I sweated and I know it hasn't needed me since 2022. The unglamorous work of enumerating every way a thing can fail, and giving each one a state the user can act on, is the difference between software you maintain and software you finish.
 
 **In web3 frontend work the chain is rarely the hard part.** Reading a balance is straightforward. Modelling every way a wallet handshake can stall, fail, or get interrupted, and giving each of those a state the user can act on, is where the real work is. I'd say that generalises past crypto to any interface sitting in front of a slow, failure-prone system someone else operates.
 
