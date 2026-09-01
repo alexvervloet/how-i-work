@@ -37,7 +37,7 @@ I sent it straight to the executive team rather than through the channel the lay
 
 ## What happened
 
-**Leadership reversed the decision.** I came off the list and stayed at the company several more months.
+**Leadership reversed the decision.** I came off the list and stayed until November 2025.
 
 What happened afterward interests me more. The strategic half of the letter kept surfacing in later conversations about engineering staffing, including ones where it didn't change the outcome. And writing it forced me to articulate what I'd been contributing for six years, which I had never actually done. That clarity has shaped how I've talked about my work in every conversation since, this repo included.
 
