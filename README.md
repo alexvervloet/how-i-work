@@ -14,9 +14,11 @@ If you have ten minutes, read the [User Guide](./USER_GUIDE.md). If you have thi
 
 ## About me
 
-I'm an engineer with a degree in organizational communication and leadership, which is a combination that sounds like a hedge and mostly hasn't been. I've spent a decade writing software and ending up, on every team, as the person who gets pulled in when something needs explaining across a gap.
+I'm an engineer with a degree in communication, speech, rhetoric and leadership, which sounds like a hedge and mostly hasn't been. I've been writing software professionally since 2017, and on every team I've ended up as the person who gets pulled in when something needs explaining across a gap.
 
-From August 2019 to November 2025 I was at VeVe, a Web3 collectibles platform with two million users, where I was a Lead Engineer across mobile and web. Before that I taught English in Taiwan, where I've been based since 2014.
+I started at Inspection Advisor in 2017, building React, React Native and D3 features on a fully remote team. I've worked remotely and asynchronously ever since. Then a year leading frontend at Influenxio, a Taipei startup matching brands with influencers, shipping weekly against specs that changed weekly. From August 2019 to November 2025 I was at VeVe, a licensed digital collectibles platform with two million users and IP from Marvel, Disney, DC and Star Wars, where I was Lead Engineer across mobile and web.
+
+I moved to Taiwan in 2014 and taught English here before moving into engineering.
 
 ---
 
@@ -34,11 +36,13 @@ What I'm not looking for is a queue of tickets with the interesting decisions al
 
 The case studies below are mostly about decisions, arguments and people. Here's the code side, which they don't cover.
 
-I was hired at VeVe as a junior engineer and left as a lead. In between I worked on every feature the platform shipped, across the web apps and the native app, which as far as I know made me the only engineer who'd touched all of it. I was Lead Engineer for Web v1.
+I was hired at VeVe as a junior engineer and left as a lead. In between I worked on every feature the platform shipped, across the web apps and the native app, which as far as I know made me the only engineer who'd touched all of it.
 
-I built the frontend of the VeVe web wallet on my own, which is still in production four years after I last worked on it, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
+The work I'd put first is the money. I built the web storefront, the auction bidding system and the direct-purchase flows from an empty editor to production in React and TypeScript, and they became the primary revenue surface for hundreds of thousands of transactions. I owned the web payment flow for in-app currency end to end, React frontend through NestJS backend to Kafka event publishing. Millions of dollars moved through it and we never shipped a critical payment bug.
 
-In my last year I went after backend work rather than waiting to be handed it. That turned into the backend for our Comic Sets release and a production flaw in Autopay that I found and fixed. I ran a team's daily updates as Scrum Master through 2023, and built the Next.js education covered below.
+I was Lead Engineer for Web v1, and I led the rebuild onto Next.js and the App Router along with the org-wide education session covered below. I built the ten-step mobile onboarding for the app launch, which drove tens of thousands of signups in its first weeks. I built the frontend of the VeVe web wallet on my own, still in production four years after I last touched it, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
+
+In my last year I went after backend work rather than waiting to be handed it. That turned into the backend for our Comic Sets release and a production flaw in Autopay that I found and fixed. I ran a team's daily updates as Scrum Master through 2023.
 
 ---
 
@@ -129,6 +133,6 @@ Reading these back, a few patterns show up that I hadn't consciously noticed.
 
 ## Reach me
 
-alex.vervloet@gmail.com · [LinkedIn](https://linkedin.com/in/alexander-vervloet)
+alex.vervloet@gmail.com · [LinkedIn](https://linkedin.com/in/alexander-vervloet) · [alexvervloet.com](https://alexvervloet.com)
 
 Taichung, Taiwan (UTC+8). Open to remote.
