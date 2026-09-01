@@ -36,7 +36,7 @@ The case studies below are mostly about decisions, arguments and people. Here's 
 
 I was hired at VeVe as a junior engineer and left as a lead. In between I worked on every feature the platform shipped, across the web apps and the native app, which as far as I know made me the only engineer who'd touched all of it. I was Lead Engineer for Web v1.
 
-I built the frontend of the VeVe web wallet on my own, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
+I built the frontend of the VeVe web wallet on my own, which is still in production four years after I last worked on it, and the entire web interface for managing Unity Showrooms. I also worked on the original internal admin application.
 
 In my last year I went after backend work rather than waiting to be handed it. That turned into the backend for our Comic Sets release and a production flaw in Autopay that I found and fixed. I ran a team's daily updates as Scrum Master through 2023, and built the Next.js education covered below.
 
@@ -62,7 +62,7 @@ A document I built with cross-functional input that became the company's communi
 
 ### [Making token swapping safe for people who had never used a wallet](./case-studies/veve-wallet.md)
 
-The frontend of VeVe's web wallet, built for collectors who had never signed an on-chain transaction and couldn't undo one. Most of the work was in the failure states, not the chain.
+The frontend of VeVe's web wallet, built for collectors who had never signed an on-chain transaction and couldn't undo one. Most of the work was in the failure states, not the chain. Still running four years later.
 
 *Web3 frontend · Transaction signing UX · Designing for irreversible actions*
 
@@ -93,6 +93,8 @@ Reading these back, a few patterns show up that I hadn't consciously noticed.
 **I go after the problems nobody owns.** Three of the five started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
 
 **I think in scope.** I'm usually the person asking whether the thing being proposed is the right size. Sometimes that's an argument for less. Sometimes it's an argument for more context, more QA, more teaching. Either way it's about matching the work to the actual goal rather than to whatever got assumed in the first meeting.
+
+**The work I'm proudest of stopped needing me.** The communication doc is still in use at a company I left in 2025. The wallet has been in production for four years without needing me back. Neither is a thing I could have optimised for directly, but both came from the same habit of spending longer than felt reasonable on the parts nobody would see.
 
 **I write to make decisions clearer.** A communication doc, a teaching deck, a letter to executives. In each case the writing was the thing that turned a vague situation into something a team could act on.
 
