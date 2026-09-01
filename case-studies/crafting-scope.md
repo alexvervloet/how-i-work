@@ -1,56 +1,56 @@
-# Reframing "Crafting" From a New Section to an Integration
+# Reframing Crafting from a new section to an integration
 
-> A case study in how the right scope decision saves weeks.
+> A case study in what the right scope decision is worth.
 
-**Role:** Lead Frontend Engineer (web platform)
+**Role:** Lead Frontend Engineer, web platform
 **Company:** VeVe (Orbis Blockchain Technologies)
 **Timeframe:** 2023
-**Skills demonstrated:** Scope challenge · Technical-to-business translation · Risk-aware delivery · Architectural simplification
+**Skills:** Scope challenge · Technical-to-business translation · Risk-aware delivery
 
 ---
 
-## The Situation
+## The situation
 
-VeVe's product roadmap included a new feature called Crafting. The idea was elegant: let users combine multiple NFTs they already owned, "burning" them in the process, to create a new unique collectible. It was a meaningful expansion of what the platform could do, and leadership was excited about it.
+VeVe's roadmap had a feature called Crafting on it. Users would combine several NFTs they already owned, burning them in the process, to produce a new collectible. Good idea, genuinely, and leadership was keen.
 
-The original spec proposed building Crafting as its own dedicated section of the app. New navigation. New screens. New GraphQL endpoints. A separate flow for browsing craftable items, selecting components, confirming the burn, and viewing the result. From a product vision standpoint it made sense. Crafting was a new behavior, and new behaviors often get their own home in the app.
+The spec called for Crafting to be its own section of the app: new navigation, new screens, new GraphQL endpoints, and a separate flow for browsing craftable items, picking components, confirming the burn and viewing the result. That's a defensible instinct. New behavior tends to get its own home.
 
-But the more I looked at the proposed scope, the more it felt wrong. We were a lean team with a hard deadline, and we were about to build a parallel universe of UI that mirrored functionality our existing storefront already handled.
+The more I read it, the more it looked like we were about to build a second storefront next to the storefront we already had. Lean team, hard deadline.
 
-## The Task I Set Myself
+## What I set out to do
 
-I needed to make the case for a different approach without dismissing the work that had already gone into the original plan. The leaders driving this feature were not engineers, and the architectural argument I wanted to make would not land if I simply said "this is over-scoped." I needed to translate the technical reality into a business decision they could actually make.
+Argue for a different shape without writing off the thinking already in the spec. The people driving Crafting weren't engineers, so "this is over-scoped" was going to land as an engineer complaining about work. I needed the architectural point converted into a business decision they could weigh.
 
-## The Action I Took
+## What I did
 
-I started by mapping the proposed Crafting flow against what already existed in our Collectible Store. The overlap was significant. Browsing, filtering, selecting items, viewing details, confirming a transaction. All of these flows existed and worked. The unique parts of Crafting were really only two things: the multi-item selection (you needed to pick the components you were burning) and the confirmation step (you needed to acknowledge that the burn was permanent).
+First I mapped the proposed Crafting flow against the Collectible Store we'd already shipped. The overlap was almost total. Browsing, filtering, item selection, detail views, transaction confirmation, all of it existed and worked. Crafting's genuinely new surface came down to two things: multi-item selection for picking your burn components, and a confirmation step that made the permanence clear.
 
-So I proposed integrating Crafting into the existing Collectible Store rather than building a new section. Add a Craftable filter to the existing catalog. Reuse the existing item detail pages. Add a multi-select mode for the burn flow. Reuse the existing transaction confirmation pattern with a Crafting-specific warning layer.
+So I proposed folding Crafting into the store instead. A Craftable filter on the existing catalog. The existing item detail pages. A multi-select mode for the burn. The existing transaction confirmation pattern with a Crafting-specific warning on top.
 
-When I presented this to leadership, I deliberately did not lead with the engineering benefits. I led with the business outcomes they cared about. Faster delivery. Less surface area for bugs. A consistent user experience where Crafting felt like a natural extension of the store rather than a separate product. The technical savings, fewer GraphQL endpoints, less duplicate frontend code, freed-up backend capacity, were the second half of the conversation, framed as "and here is why the engineering team can move faster on this."
+When I took it to leadership I deliberately didn't open with the engineering case. I opened with what they cared about: faster delivery, less surface for bugs to hide in, and a Crafting flow that felt like part of the store rather than a bolted-on second product. The technical savings came second, framed as the reason the team could move faster. Fewer endpoints to build and maintain, no duplicate frontend, backend capacity freed for other work.
 
-The decision was made in that meeting. We went with the integrated approach.
+They decided in the meeting. We went integrated.
 
-The second decision I pushed for was around QA. Our team had a habit of saving QA for the end of a feature, which meant bugs surfaced late, often after the work that caused them had been forgotten. For Crafting I argued that we needed to QA continuously, after every meaningful piece of functionality landed, not just at the end. I framed this as risk reduction for the deadline. Leadership agreed, and we built QA checkpoints into the sprint plan from day one.
+The second thing I pushed for was QA. Our habit was to save it for the end, which meant bugs surfaced weeks after the code that caused them had left everyone's head. For Crafting I argued for continuous QA, a checkpoint after every meaningful piece of functionality landed. I sold it as deadline insurance rather than as good practice, which is why it got approved. The checkpoints went into the sprint plan on day one.
 
-## The Result
+## What happened
 
-We shipped Crafting **ahead of schedule.** The integration approach saved an estimated three to four weeks of frontend work and a similar amount of backend effort, allowing the team to absorb scope changes that came in late without missing the launch date.
+Crafting shipped **ahead of schedule.** The integration saved an estimated three to four weeks of frontend work and roughly the same on the backend, and that slack is what let us absorb late scope changes without moving the launch date.
 
-The continuous QA approach caught dozens of bugs throughout development. Many of them were the kind that, in our usual end-loaded QA process, would have been discovered during the final week and either delayed the launch or shipped to users undetected. A handful were serious enough that finding them late could have caused a rollback.
+The QA checkpoints caught dozens of bugs during development. Under our old end-loaded process most of those would have shown up in the final week, where the options are delay or ship it and hope. A few were bad enough to have forced a rollback.
 
-The feature launched on time, with fewer bugs than any feature we had shipped that quarter. Users adopted Crafting quickly, in large part because it felt like a natural part of the store they already knew, not a new thing they had to learn.
+The feature launched on time with fewer bugs than anything else we shipped that quarter. Adoption was quick, and I think a good part of that is that users didn't have to learn a new place. Crafting was just something the store could now do.
 
-## What I Took From It
+## What I took from it
 
-1. **The instinct to give every new feature its own home is usually wrong.** New features that share core behaviors with existing ones should live alongside them. Separation creates duplicate code, duplicate UX, and duplicate maintenance, and it teaches users that your product is a collection of disconnected tools rather than a coherent experience.
+**Giving every new feature its own home is usually the wrong instinct.** Features that share core behaviors with what you already have should live next to it. Splitting them gets you duplicate code, duplicate UX and duplicate maintenance, and it teaches users that your product is a pile of loosely related tools.
 
-2. **The way you frame a technical argument determines whether it gets heard.** Leading with business outcomes and following with technical reasoning is almost always the right order when the audience is non-technical.
+**How you frame a technical argument decides whether it gets heard.** Business outcome first, technical reasoning second, whenever the room isn't technical. Same argument, different order, completely different reception.
 
-3. **QA at the end is QA too late.** Building checkpoints throughout the work surfaces bugs while the context is still fresh, which is when they are cheapest to fix. This is one of those things that everyone agrees with in principle and almost no one actually does.
+**QA at the end is QA too late.** Checkpoints throughout catch bugs while the context is still in someone's head, which is when they're cheapest. Everyone agrees with this. Almost nobody does it.
 
-4. **The job of a technical voice in a product meeting is to surface the option leadership did not know they had.** The original Crafting proposal was not bad. It was just one option, and nobody else was going to suggest the alternative.
+**A technical voice in a product meeting exists to surface the option nobody knew was on the table.** The original Crafting proposal wasn't bad. It was one option, and I was the only person in the room positioned to name the other one.
 
 ---
 
-[← Back to case studies](../README.md) · [About me](https://github.com/alexander-vervloet)
+[← Back to case studies](../README.md)
