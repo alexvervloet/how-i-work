@@ -44,14 +44,17 @@ In my last year I went after backend work rather than waiting to be handed it. T
 
 ## What I've built since
 
-I left VeVe at the end of 2025 and spent the time since going deep on AI engineering, mostly by building things rather than reading about them. Fifteen repositories, around 1,470 commits and 51,000 lines since June 2026. Five carry their own eval suites, eight run CI, and three are deployed and reachable right now.
+I left VeVe in November 2025 and spent the next several months applying for frontend and fullstack roles without much traction. By spring I'd stopped applying and started asking why. The honest answer was that I was chasing a version of the job that's shrinking, and that I had opinions about AI engineering without any real understanding of it, which is a bad place to argue from.
+
+So I went back to fundamentals rather than back to the job boards. Python properly, from data structures up through FastAPI, databases, auth and messaging, which turned into [a public learning resource](https://github.com/alexvervloet/learning-python-backends) of about 740 commits. Then [the same for JavaScript](https://github.com/alexvervloet/learn-javascript-backend-engineering). Then small experiments to find where the edges were. [StudyRAG](https://github.com/alexvervloet/StudyRAG) in April was my first go at retrieval, and by July I was writing [rag-at-scale](https://github.com/alexvervloet/rag-at-scale) about what breaks between four documents and five million chunks. That gap is roughly the shape of the last six months.
+
+From June the building got serious. Fifteen repositories, around 1,470 commits and 51,000 lines. Five carry their own eval suites, eight run CI, and three are deployed and reachable right now.
 
 The ones I'd start with:
 
 - **[Deskhand](https://github.com/alexvervloet/deskhand)** ([live](https://deskhand.fly.dev)) is a durable agent runtime for support operations, where the agent is allowed to refund money and the machinery around it makes that defensible. [Case study below](#case-studies).
 - **[Knowledge Desk](https://github.com/alexvervloet/knowledge-desk)** ([live](https://knowledge-desk.fly.dev)) is a multi-tenant knowledge assistant where a question can only reach documents the asker is allowed to see, enforced three independent times so no single missed filter leaks data.
 - **[askrepo-live](https://github.com/alexvervloet/askrepo-live)** ([live](https://askrepo-live.fly.dev)) is a streaming chat UI over a pre-indexed set of my own repositories, behind a FastAPI gateway.
-- **[rag-at-scale](https://github.com/alexvervloet/rag-at-scale)** asks what breaks between four documents and five million chunks, which is the question interviews actually ask.
 - **[model-swap](https://github.com/alexvervloet/model-swap)** measures what a forced model migration costs on a live app, for when the model you tuned on gets retired and the eval suite is green either way.
 
 There's also an [AI engineering deep-dive series](https://github.com/alexvervloet/ai-engineering-deep-dive), twenty-four build-it-from-scratch courses covering RAG, evals, agents, prompt injection, fine-tuning, observability and the rest. That's the same instinct as the Next.js session at VeVe, which is the one below that leadership didn't ask me for either.
