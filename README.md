@@ -16,7 +16,7 @@ If you have ten minutes, read the [User Guide](./USER_GUIDE.md). If you have thi
 
 I'm an engineer with a degree in organizational communication and leadership, which is a combination that sounds like a hedge and mostly hasn't been. I've spent a decade writing software and ending up, on every team, as the person who gets pulled in when something needs explaining across a gap.
 
-Six of those years were at VeVe, a Web3 collectibles platform with two million users, where I was a Lead Engineer across mobile and web. Before that I taught English in Taiwan, where I've been based since 2014.
+From August 2019 to November 2025 I was at VeVe, a Web3 collectibles platform with two million users, where I was a Lead Engineer across mobile and web. Before that I taught English in Taiwan, where I've been based since 2014.
 
 ---
 
