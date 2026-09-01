@@ -1,87 +1,77 @@
-# How I Work
+# How I work
 
-Case studies, working notes, and a User Guide to me. Built over a decade of shipping software at the intersection of engineering and product.
+Case studies and working notes from a decade of shipping software.
 
 ---
 
 ## Who this is for
 
-Hiring managers, recruiters, future teammates, or anyone who wants a deeper look at how I think than a resume can show. My Resume tells you what I have done. This repo tries to show you how I did it, and what I learned along the way.
+Hiring managers, recruiters, future teammates, or anyone who wants a longer look at how I think than a resume has room for. My resume lists what I did. This repo covers how, and what it taught me.
 
-If you have ten minutes, the [User Guide](./USER_GUIDE.md) is the fastest way to get a sense of who I am. If you have thirty, pick a case study below.
-
----
-
-## About me, briefly
-
-I am an engineer by trade and a communicator by training. My degree is in organizational communication and leadership, and I have spent the last decade shipping software while quietly being the person teams come to when something needs to be translated, untangled, or said out loud. I work best at the intersection of building and deciding what to build.
-
-Most recently I spent six years as a Lead Engineer at VeVe, a Web3 platform with two million users, working across mobile and web. Before that I taught English in Taiwan for several years, where I have been based since 2014.
+If you have ten minutes, read the [User Guide](./USER_GUIDE.md). If you have thirty, pick a case study.
 
 ---
 
-## A User Guide to Me
+## About me
 
-A short doc on how I work, what I bring to a team, and how to get the best out of me. Worth reading first.
+I'm an engineer with a degree in organizational communication and leadership, which is a combination that sounds like a hedge and mostly hasn't been. I've spent a decade writing software and ending up, on every team, as the person who gets pulled in when something needs explaining across a gap.
+
+Six of those years were at VeVe, a Web3 collectibles platform with two million users, where I was a Lead Engineer across mobile and web. Before that I taught English in Taiwan, where I've been based since 2014.
+
+---
+
+## A user guide to me
+
+How I work, what I'm good for, and how to get the best out of me. Worth reading first.
 
 [Read the User Guide →](./USER_GUIDE.md)
 
 ---
 
-## Case Studies
+## Case studies
 
-Four stories from real work, each focused on a specific skill.
+Four stories from real work, each about a different skill.
 
-### [Building a Communication Standard Across a 100-Person Org](./case-studies/communication-standard.md)
-*Noticing the problem nobody owned, and fixing it through co-creation.*
+### [Building a communication standard across a 100-person org](./case-studies/communication-standard.md)
 
-A document I built with cross-functional input that became the company's communication standard. Still in use after my departure.
+A document I built with cross-functional input that became the company's communication standard. Still in use after I left.
 
-**Skills:** Stakeholder synthesis · Change management · Cross-functional facilitation
+*Stakeholder synthesis · Change management · Cross-functional facilitation*
 
----
+### [Reframing Crafting from a new section to an integration](./case-studies/crafting-scope.md)
 
-### [Reframing "Crafting" From a New Section to an Integration](./case-studies/crafting-scope.md)
-*How the right scope decision saves weeks.*
+A feature scoped as a separate section of the app. I made the case for folding it into existing flows instead. Shipped ahead of schedule with fewer bugs than anything else that quarter.
 
-A feature originally scoped as a separate section of the app. I made the case for integrating it into existing flows. Shipped ahead of schedule, with fewer bugs than any feature that quarter.
+*Scope challenge · Technical-to-business translation · Risk-aware delivery*
 
-**Skills:** Scope challenge · Technical-to-business translation · Risk-aware delivery
+### [Closing the Next.js knowledge gap before it cost us months](./case-studies/nextjs-knowledge-gap.md)
 
----
+A migration that needed framework fluency the team didn't have yet. I built and delivered an org-wide teaching session to close the gap before we ran into it.
 
-### [Closing the Next.js Knowledge Gap Before It Cost Us Months](./case-studies/nextjs-knowledge-gap.md)
-*Turning a learning curve into a launchpad.*
+*Knowledge gap identification · Cross-functional teaching · Self-directed initiative*
 
-A migration that needed framework fluency the team did not yet have. I built and delivered an org-wide education session that closed the gap before we hit it.
+### [Making the case for my own retention](./case-studies/retention-letter.md)
 
-**Skills:** Knowledge gap identification · Cross-functional teaching · Self-directed initiative
+One document combining strategic feedback with self-advocacy. Leadership reversed a decision that had already been made.
 
----
-
-### [Making the Case for My Own Retention](./case-studies/retention-letter.md)
-*Writing under pressure, when the stakes are personal.*
-
-A single document that combined strategic feedback with self-advocacy. Leadership reversed a decision that had already been made.
-
-**Skills:** Stakeholder communication · Persuasive writing · Strategic framing
+*Stakeholder communication · Persuasive writing · Strategic framing*
 
 ---
 
-## A few things that connect these stories
+## What connects them
 
-Reading them back, a few patterns stand out.
+Reading these back, a few patterns show up that I hadn't consciously noticed.
 
-**I tend to find the problems nobody owns.** Three of the four case studies started without anyone asking me to do anything. The communication standard, the Next.js teaching, and the retention letter were all self-initiated. The most interesting work is usually the work that is not yet on anyone's roadmap.
+**I go after the problems nobody owns.** Three of the four started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
 
-**I think in scope.** I am almost always the person in the room asking whether the thing being proposed is the right size. Sometimes that means making the case for less. Sometimes it means making the case for more context, more QA, more education. The common thread is matching the work to the goal, not to the assumption.
+**I think in scope.** I'm usually the person asking whether the thing being proposed is the right size. Sometimes that's an argument for less. Sometimes it's an argument for more context, more QA, more teaching. Either way it's about matching the work to the actual goal rather than to whatever got assumed in the first meeting.
 
-**I write to make decisions clearer.** Whether it is a communication doc, a teaching presentation, or a letter to executives, the act of writing has consistently been the thing that turns a vague situation into something a team can act on.
+**I write to make decisions clearer.** A communication doc, a teaching deck, a letter to executives. In each case the writing was the thing that turned a vague situation into something a team could act on.
 
 ---
 
 ## Reach me
 
-📫 alex.vervloet@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/alexander-vervloet)
-📍 Taichung, Taiwan (UTC+8, open to remote)
+alex.vervloet@gmail.com · [LinkedIn](https://linkedin.com/in/alexander-vervloet)
+
+Taichung, Taiwan (UTC+8). Open to remote.
