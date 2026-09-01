@@ -1,6 +1,6 @@
-# A User Guide to Me
+# A user guide to me
 
-> A short doc on how I work, what I bring, and how to get the best out of me.
+> How I work, what I'm good for, and how to get the best out of me.
 
 ![Location](https://img.shields.io/badge/Based_in-Taichung,_Taiwan-blue)
 ![Timezone](https://img.shields.io/badge/Timezone-UTC+8-green)
@@ -10,38 +10,40 @@
 
 ## Who I am, in one paragraph
 
-I am an engineer by trade and a communicator by training. My degree is in organizational communication and leadership, and I have spent the last decade shipping software while quietly being the person teams come to when something needs to be translated, untangled, or said out loud. I work best at the intersection of building and deciding what to build.
+I'm an engineer with a degree in organizational communication and leadership. That combination sounds like a hedge and mostly isn't. I've spent about a decade writing software, and in every team I've been on I've ended up as the person who gets pulled in when something needs explaining across a gap: engineering to leadership, product to engineering, or one team to another that's been talking past it for a month.
 
 ## What I bring to a team
 
-- **Questions. Lots of them, and I am not afraid of the ones that sound stupid.** In my experience the questions people are too embarrassed to ask are usually the ones the whole room is quietly wondering about.
-- **A bridge between engineering and everyone else.** I have spent years explaining technical decisions to non-technical leadership and translating business goals back into engineering work. I enjoy this part of the job more than most engineers do.
-- **Willingness to say the thing nobody else will.** If a meeting is heading toward a bad decision, I will speak up. I would rather absorb the awkwardness of a tough question than watch a team commit to the wrong path.
-- **A willingness to take the heat.** Shifting requirements, stakeholder pressure, the meeting that pulls focus from real work. I would rather absorb that and let the rest of the team stay in flow than protect my own calendar.
-- **Care for the team itself, not just the work.** The teams I have been on have been better for me being on them, not because I led them, but because I tend to notice and act on the things that quietly slow everyone down.
+- **Questions, including the stupid ones.** The question people are too embarrassed to ask is usually the one half the room is also wondering about. I'll ask it.
+- **Translation between engineering and everyone else.** I've spent years explaining technical decisions to non-technical leadership and turning business goals back into engineering work. Most engineers find this part of the job tedious. I like it.
+- **Saying the thing nobody else will.** If a meeting is heading somewhere bad, I'll say so. I'd rather take the awkwardness of one hard question than watch a team commit six weeks to the wrong path.
+- **Taking the heat.** Shifting requirements, stakeholder pressure, the meeting that eats an afternoon. I'd rather absorb that than protect my own calendar while the rest of the team gets interrupted.
+- **Attention to the team, not only the work.** I notice the things that slow everyone down by a small amount every day, and I tend to go fix them.
 
 ## How I work best
 
-- **Async first.** Most things can be a Slack thread. If that thread goes past ten replies, let us hop on a quick call. Meetings are for messy problems, not for status.
-- **Context over instruction.** Tell me the goal and the constraints, and I will figure out the path. A step-by-step list of tasks without the why will get done, but worse.
-- **Trust me to push back, then commit.** If I disagree with a decision I will say so. Once it is made I will commit fully. I do not need to win every argument, just to know my input was heard.
+- **Async first.** Most things can be a Slack thread. If the thread passes ten replies, let's get on a call. Meetings are for messy problems, not status.
+- **Context over instruction.** Give me the goal and the constraints and I'll find the path. A task list without the why still gets done, just worse.
+- **Push back, then commit.** If I disagree I'll say so, once, with reasons. After the call is made I'm all the way in. I don't need to win the argument. I need to know the input landed.
 
-## The Hey Rule
+## The Hey rule
 
-> Do not just send "Hey" on Slack. Send the question, the context, and what you have already tried. I will get back to you much faster.
+> Don't just send "Hey" on Slack. Send the question, the context, and what you've already tried.
 
-This is the thing I say most often. It is not about being formal. A well-formed message gets a real answer. A vague one waits in line until I have the energy to chase down what you actually need.
+This is the thing I say most often, and it isn't about formality. A well-formed message gets a real answer within the hour. A vague one sits in the queue until I have the energy to go find out what you actually need.
 
 ## What gets the best out of me
 
-- **A clear connection between my work and something that matters.** When I understand the why, I move fast. When I do not, I will keep asking until I do.
-- **Variety.** I am at my best when I am learning something or solving something new. I have spent a decade picking up new languages, frameworks, and even spoken languages outside of work because that is just how I am wired.
-- **Honesty.** Tell me when something is not working. I would rather hear it directly than guess.
+- **A clear line between my work and something that matters.** When I know why, I move fast. When I don't, I'll keep asking until I do, which is slower for both of us.
+- **Variety.** I'm best when I'm learning something. I've picked up new languages and frameworks outside of work for years, plus a couple of spoken ones, because that's how I'm built.
+- **Honesty.** Tell me when something isn't working. Guessing is worse.
 
-## If we are going to work together
+## If we're going to work together
 
-Be direct. Bring me into the why, not just the what. Trust me to be honest in return. And if the sprint is on fire, let us joke about it while we put it out. The rest we can figure out as we go.
+Be direct. Bring me into the why. Trust that I'll be honest back. And if the sprint is on fire, let's joke about it while we put it out.
 
 ---
 
-📫 **Reach me:** [LinkedIn](https://linkedin.com/in/alexander-vervloet) · alex.vervloet@gmail.com
+**Reach me:** [LinkedIn](https://linkedin.com/in/alexander-vervloet) · alex.vervloet@gmail.com
+
+[← Back to the repo](./README.md)
