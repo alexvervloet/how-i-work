@@ -7,6 +7,8 @@
 **Timeframe:** 2025
 **Skills:** Stakeholder communication · Persuasive writing · Strategic framing
 
+**Artifact:** [Redacted excerpt of the letter](./artifacts/retention-letter-excerpt.md)
+
 ---
 
 ## The situation
@@ -21,17 +23,21 @@ I pushed back, on one condition I set for myself: the document had to be genuine
 
 One document doing two jobs. It had to argue that the proposed engineering cuts went further than the business strategy actually required, on the merits and independent of my own role. And it had to make a specific, evidence-based case that six years of my contributions were worth more than my line on the org chart implied.
 
-Both halves had to work. Argue only for myself and it reads as desperate. Argue only about strategy and nothing changes for me. It needed to be a piece of business reasoning that also happened to be self-advocacy.
+Both arguments had to work. Argue only for myself and it reads as desperate. Argue only about strategy and nothing changes for me. It needed to be a piece of business reasoning that also happened to be self-advocacy.
 
 My audience was a handful of executives under real pressure, with no patience for anything that didn't earn its space on the page.
 
 ## What I did
 
-I separated the two arguments cleanly and led with the strategic one, because it was the half most likely to read as constructive rather than as pleading. I laid out why a customer-acquisition strategy still depends on engineering, how fast the user experience degrades without ongoing frontend work, and what I'd observed about how customers respond to a platform that visibly stops improving.
+I led with the strategic argument, because it was the part most likely to read as constructive rather than as pleading. It's short, one paragraph out of three pages, and that was deliberate. I laid out why a customer-acquisition strategy still depends on engineering, how fast the user experience degrades without ongoing frontend work, and what happens to a customer base that stops believing the platform is improving. Then I got out of it. The strategic case only had to buy me the reader's attention for the rest.
 
 Then I made the case for my role, and I deliberately didn't list my responsibilities. Responsibility lists are easy to dismiss because they sound like everyone's. I built an evidence list instead. Specific things I'd done that nobody else had. Parts of the codebase only I had worked in. The engineers who came to me and what they came for. Initiatives I'd started unasked. The coverage that would simply disappear the day I left.
 
-Tone took the most work. It had to be confident without arrogance, urgent without panic, personal without emotion. I included one line acknowledging that I was obviously biased about my own retention, because pretending otherwise would have cost me the reader's trust on everything else. I closed by noting that I'd written the whole thing myself with no AI assistance, because I wanted them to know they were reading my actual voice.
+Tone took the most work. Confident without arrogance, urgent without panic. I included one line acknowledging that I was obviously biased about my own retention, because pretending otherwise would have cost me the reader's trust on everything else. I noted that I'd written the whole thing myself with no AI assistance, because I wanted them to know they were reading my actual voice.
+
+I let the ending be emotional, which I went back and forth on. The last stretch of the letter is about the six years themselves, including the fact that both my children were born during them. Reading it now I can see how close that came to undercutting the evidence I'd just spent two pages building. I left it in because the argument up to that point was cold enough to carry it, and because it was true.
+
+The last thing in the letter wasn't me. I closed with six unprompted messages I'd received from colleagues over the previous year, quoted directly and attributed. Engineers thanking me for team sessions, for the Next.js presentation, for feedback. I'd been arguing my own value for three pages. Ending on other people making the same case, in their own words, did more than another paragraph from me could have.
 
 I sent it straight to the executive team rather than through the channel the layoff would come down.
 
@@ -45,9 +51,11 @@ What happened in between is the part I'd point to. The strategic half of the let
 
 ## What I took from it
 
-**Effective self-advocacy mostly isn't about you.** Half my letter was about the business, and it came first. Reverse that order and the document fails. People will let themselves be persuaded by someone who appears to be thinking about the larger problem before their own position.
+**Effective self-advocacy mostly isn't about you.** The business argument came first and it was short. Reverse the order and the document fails, no matter how good the evidence is. People will let themselves be persuaded by someone who looks like they're thinking about the larger problem before their own position, and they'll stop reading someone who isn't.
 
 **Specificity is the whole game.** A list of responsibilities reads like a job description. A list of things only you did, with examples, reads like evidence. Most people default to the first and wonder why it doesn't move anyone.
+
+**Let other people make your argument.** The strongest page in the letter was the one I didn't write. Six colleagues had said generous things to me over the previous year and I'd kept them. Quoted at the end, attributed, they turned my claims into corroboration. Save the nice messages people send you. Not for your ego, for the day you need evidence.
 
 **Know the audience better than you know yourself.** I wasn't writing to convince me. I was writing for four people under pressure, and every sentence had to earn its place by their standards.
 
