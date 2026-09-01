@@ -1,56 +1,56 @@
-# Making the Case for My Own Retention
+# Making the case for my own retention
 
 > A case study in writing under pressure, when the stakes are personal.
 
 **Role:** Lead Frontend Engineer
 **Company:** VeVe (Orbis Blockchain Technologies)
 **Timeframe:** 2025
-**Skills demonstrated:** Stakeholder communication · Persuasive writing · Strategic framing · Self-advocacy under pressure
+**Skills:** Stakeholder communication · Persuasive writing · Strategic framing
 
 ---
 
-## The Situation
+## The situation
 
-After nearly six years at the same company, I learned through internal channels that my position was scheduled to be cut in an upcoming round of layoffs. The company was navigating a difficult period and engineering was being significantly reduced, with leadership planning to shift focus away from new development and toward customer acquisition. The decision to cut my role had already been made. The list was final. Communication to affected employees would be going out within days.
+Almost six years in, I found out through internal channels that my role was on the list for an upcoming layoff round. The company was in a hard stretch, engineering was being cut substantially, and leadership was shifting focus from new development toward customer acquisition. The decision was made. The list was final. Notifications were going out within days.
 
-I had two choices. I could accept the decision and start my job search, which is what most people in that position would reasonably do. Or I could push back, knowing that pushing back rarely works and could damage the relationships I had built over six years if it landed badly.
+Two options. Accept it and start job hunting, which is what most people sensibly do. Or push back, knowing pushing back rarely works and can burn six years of relationships if it lands wrong.
 
-I chose to push back, but only if I could do it in a way that was genuinely useful to the people making the decision rather than purely self-serving.
+I pushed back, on one condition I set for myself: the document had to be genuinely useful to the people reading it, not just an appeal on my own behalf.
 
-## The Task I Set Myself
+## What I set out to do
 
-The goal was to write a single document that would do two things at once. First, it needed to make a substantive case that the proposed engineering cuts were larger than the business strategy required, separate from any argument about my own role. Second, it needed to make a clear, evidence-based case for why my specific contributions over six years were worth more than my line on the org chart suggested.
+One document doing two jobs. It had to argue that the proposed engineering cuts went further than the business strategy actually required, on the merits and independent of my own role. And it had to make a specific, evidence-based case that six years of my contributions were worth more than my line on the org chart implied.
 
-Both halves had to land. If I argued only for myself, it would read as desperate. If I argued only about strategy, it would not change my own outcome. The document needed to be a piece of business reasoning that happened to also be self-advocacy.
+Both halves had to work. Argue only for myself and it reads as desperate. Argue only about strategy and nothing changes for me. It needed to be a piece of business reasoning that also happened to be self-advocacy.
 
-I had to write it knowing that the audience was a small group of executives under significant pressure, who did not have time for anything that did not earn its place on the page.
+My audience was a handful of executives under real pressure, with no patience for anything that didn't earn its space on the page.
 
-## The Action I Took
+## What I did
 
-I started by separating the two arguments cleanly. The strategic argument came first, because it was the one most likely to be received as constructive feedback rather than personal pleading. I laid out why even a customer-acquisition focus still depended on engineering, why the user experience would degrade quickly without continued frontend work, and what I had observed about how customers respond to platforms that visibly stop improving.
+I separated the two arguments cleanly and led with the strategic one, because it was the half most likely to read as constructive rather than as pleading. I laid out why a customer-acquisition strategy still depends on engineering, how fast the user experience degrades without ongoing frontend work, and what I'd observed about how customers respond to a platform that visibly stops improving.
 
-Then I made the case for my own role, but not by listing my responsibilities. Job titles and responsibility lists are easy to dismiss because they sound like everyone else's. Instead, I built an evidence list. Specific things I had done that nobody else had done. Areas of the codebase only I had touched. Engineers who came to me for help. Initiatives I had started without being asked. Coverage gaps that would open up if I left.
+Then I made the case for my role, and I deliberately didn't list my responsibilities. Responsibility lists are easy to dismiss because they sound like everyone's. I built an evidence list instead. Specific things I'd done that nobody else had. Parts of the codebase only I had worked in. The engineers who came to me and what they came for. Initiatives I'd started unasked. The coverage that would simply disappear the day I left.
 
-I was deliberate about tone. The document had to be confident without being arrogant, urgent without being panicked, and personal without being emotional. I included a single line acknowledging the obvious bias in writing about my own retention, because pretending the bias did not exist would have undermined everything else. I closed with a sentence noting that the entire letter was written by me personally, no AI assistance, because I wanted leadership to know they were reading my actual voice.
+Tone took the most work. It had to be confident without arrogance, urgent without panic, personal without emotion. I included one line acknowledging that I was obviously biased about my own retention, because pretending otherwise would have cost me the reader's trust on everything else. I closed by noting that I'd written the whole thing myself with no AI assistance, because I wanted them to know they were reading my actual voice.
 
-I sent it directly to the executive team, bypassing the normal communication channels through which the layoff would have been delivered.
+I sent it straight to the executive team rather than through the channel the layoff would come down.
 
-## The Result
+## What happened
 
-**Leadership reversed the decision.** I was kept on through that round of layoffs and continued working at the company for several more months.
+**Leadership reversed the decision.** I came off the list and stayed at the company several more months.
 
-More interesting than the outcome itself was what happened after. The strategic feedback in the first half of the letter influenced subsequent conversations about engineering staffing, even where it did not change every decision. The act of writing the letter also clarified, for me, exactly what I had been contributing for six years in a way I had never bothered to articulate before. That clarity has shaped how I have presented myself in every conversation since.
+What happened afterward interests me more. The strategic half of the letter kept surfacing in later conversations about engineering staffing, including ones where it didn't change the outcome. And writing it forced me to articulate what I'd been contributing for six years, which I had never actually done. That clarity has shaped how I've talked about my work in every conversation since, this repo included.
 
-## What I Took From It
+## What I took from it
 
-1. **The most persuasive self-advocacy is not about you.** The first half of my letter was about the business. Only after I had earned the reader's attention with strategic reasoning did I make a case for myself. If I had reversed the order, the document would have failed. People are willing to be persuaded by someone who appears to be thinking about the larger problem first.
+**Effective self-advocacy mostly isn't about you.** Half my letter was about the business, and it came first. Reverse that order and the document fails. People will let themselves be persuaded by someone who appears to be thinking about the larger problem before their own position.
 
-2. **Specificity is the entire game.** A list of responsibilities reads like a job description. A list of specific things you and only you did, with concrete examples, reads like evidence. The difference in persuasive weight between those two is enormous, and most people default to the first one.
+**Specificity is the whole game.** A list of responsibilities reads like a job description. A list of things only you did, with examples, reads like evidence. Most people default to the first and wonder why it doesn't move anyone.
 
-3. **Knowing your audience matters more than knowing yourself.** I was not writing to convince myself. I was writing to convince a small group of people under pressure. Every sentence had to earn its place by their standards, not mine.
+**Know the audience better than you know yourself.** I wasn't writing to convince me. I was writing for four people under pressure, and every sentence had to earn its place by their standards.
 
-4. **Sometimes the hardest thing to write is the most clarifying.** I had spent six years quietly contributing in ways I had never named out loud. Forcing myself to articulate them, with evidence, in a single document, was uncomfortable. It was also the most useful exercise I have ever done as a professional. I would recommend it to anyone, regardless of whether their job is currently at risk.
+**The hardest thing to write is usually the most clarifying.** I'd spent six years contributing in ways I'd never named out loud. Putting them in one document with evidence attached was uncomfortable and easily the most useful professional exercise I've done. I'd recommend it to anyone, employed or not.
 
 ---
 
-[← Back to case studies](../README.md) · [About me](https://github.com/alexander-vervloet)
+[← Back to case studies](../README.md)
