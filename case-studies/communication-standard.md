@@ -37,7 +37,7 @@ I rolled it out through those same working groups and asked them to champion it 
 
 It became the de facto communication standard. New hires got it during onboarding. PMs and engineers cited it in scope arguments. Strong teams used it as validation and struggling teams used it as a to-do list.
 
-I left VeVe a couple of years later. **The document is still in active use.** That's the outcome I'm proudest of from my whole time there. Not a feature. Not a metric I moved. A piece of work that outlived me and keeps paying out with nobody pushing it.
+I left VeVe in November 2025, two years after the document went company-wide. **It is still in active use.** That's the outcome I'm proudest of from my whole time there. Not a feature. Not a metric I moved. A piece of work that outlived me and keeps paying out with nobody pushing it.
 
 ## What I took from it
 
