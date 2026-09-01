@@ -16,7 +16,7 @@ While I completely understand that the company is in a tough position due to eco
 
 I also think it's a huge mistake to remove me from the Engineering team and company. While I obviously say this with a lot of bias, as this is my career of almost six years at Veve being threatened, I'm not the only one who has expressed this opinion on the existing team. Yes, I've actively worked on both mobile and web projects, even serving as the Lead Engineer for Web v1. But what I've provided and continue to offer the company isn't just limited to a few tens of thousands of lines of Frontend code. This includes:
 
-- I am probably the only Veve Engineer to have actively worked on every, single, feature we have and have had in all of our applications at some capacity, both on Web and Native App. This isn't limited to Collectibles. I also single-handedly created the Veve Wallet app and worked on the original Admin application. Furthermore, I created the entire web interface for working with Unity Showrooms.
+- I am probably the only Veve Engineer to have actively worked on every, single, feature we have and have had in all of our applications at some capacity, both on Web and Native App. This isn't limited to Collectibles. I also single-handedly created the Veve Wallet app (besides Selenium Contracts) and worked on the original Admin application. Furthermore, I created the entire web interface for working with Unity Showrooms.
 
 - I am also one of the few Engineers that constantly thinks past just the technical decisions of our Engineering work, but also the business implications. I have often pushed back on ideas I thought wouldn't serve the business well, and pushed for ideas that I felt would help.
 
