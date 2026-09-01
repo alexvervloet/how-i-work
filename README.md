@@ -52,13 +52,19 @@ How I work, what I'm good for, and how to get the best out of me. Worth reading 
 
 ## Case studies
 
-Four stories from real work, each about a different skill.
+Five stories from real work, each about a different skill.
 
 ### [Building a communication standard across a 100-person org](./case-studies/communication-standard.md)
 
 A document I built with cross-functional input that became the company's communication standard. Still in use after I left.
 
 *Stakeholder synthesis · Change management · Cross-functional facilitation*
+
+### [Making token swapping safe for people who had never used a wallet](./case-studies/veve-wallet.md)
+
+The frontend of VeVe's web wallet, built for collectors who had never signed an on-chain transaction and couldn't undo one. Most of the work was in the failure states, not the chain.
+
+*Web3 frontend · Transaction signing UX · Designing for irreversible actions*
 
 ### [Reframing Crafting from a new section to an integration](./case-studies/crafting-scope.md)
 
@@ -84,7 +90,7 @@ One document combining strategic feedback with self-advocacy. Leadership reverse
 
 Reading these back, a few patterns show up that I hadn't consciously noticed.
 
-**I go after the problems nobody owns.** Three of the four started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
+**I go after the problems nobody owns.** Three of the five started with nobody asking me for anything. The communication standard, the Next.js teaching and the retention letter were all self-initiated. The work that isn't on a roadmap yet tends to be the most interesting work available, and nobody is competing for it.
 
 **I think in scope.** I'm usually the person asking whether the thing being proposed is the right size. Sometimes that's an argument for less. Sometimes it's an argument for more context, more QA, more teaching. Either way it's about matching the work to the actual goal rather than to whatever got assumed in the first meeting.
 
