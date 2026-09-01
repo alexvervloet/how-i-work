@@ -20,6 +20,16 @@ Six of those years were at VeVe, a Web3 collectibles platform with two million u
 
 ---
 
+## What I'm looking for
+
+Roles where the engineer sits close to the people the software is for. Depending on the company that's called Forward Deployed Engineer, AI Engineer, fullstack, or a frontend role with real product ownership attached. The title matters less to me than whether I get to talk to users, build the thing, and push back on what we're building rather than only on how fast.
+
+That's the job this repo is evidence for. The case studies are less about code I wrote than about decisions I changed and gaps I closed on behalf of people who weren't in the room.
+
+What I'm not looking for is a queue of tickets with the interesting decisions already made upstairs.
+
+---
+
 ## A user guide to me
 
 How I work, what I'm good for, and how to get the best out of me. Worth reading first.
