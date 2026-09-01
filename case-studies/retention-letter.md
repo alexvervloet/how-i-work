@@ -37,9 +37,11 @@ I sent it straight to the executive team rather than through the channel the lay
 
 ## What happened
 
-**Leadership reversed the decision.** I came off the list and stayed until November 2025.
+**Leadership reversed the decision.** I came off the list.
 
-What happened afterward interests me more. The strategic half of the letter kept surfacing in later conversations about engineering staffing, including ones where it didn't change the outcome. And writing it forced me to articulate what I'd been contributing for six years, which I had never actually done. That clarity has shaped how I've talked about my work in every conversation since, this repo included.
+I stayed until November 2025, when a later round cut engineering back to the bare essentials and took my role with it. That's the honest ending and I'd rather state it than let it sit as a gap in the timeline. The letter didn't save the job. It bought months, and it was never going to outlast a round that kept almost nobody. It did make the first half of the argument look right: I'd written that the proposed cuts went deeper than the strategy required, and the company then went deeper still.
+
+What happened in between is the part I'd point to. The strategic half of the letter kept surfacing in later conversations about engineering staffing, including ones where it changed nothing. And writing it forced me to articulate what I'd been contributing for six years, which I had never actually done. That clarity has shaped how I've talked about my work in every conversation since, this repo included.
 
 ## What I took from it
 
@@ -50,6 +52,8 @@ What happened afterward interests me more. The strategic half of the letter kept
 **Know the audience better than you know yourself.** I wasn't writing to convince me. I was writing for four people under pressure, and every sentence had to earn its place by their standards.
 
 **The hardest thing to write is usually the most clarifying.** I'd spent six years contributing in ways I'd never named out loud. Putting them in one document with evidence attached was uncomfortable and easily the most useful professional exercise I've done. I'd recommend it to anyone, employed or not.
+
+**Winning the argument is not the same as changing the outcome.** The case landed, and months later the business went where it was always going to go for reasons that had nothing to do with me or the letter. Worth knowing before you write something like this. I'd still write it again, and I'd send it to the same people.
 
 ---
 
