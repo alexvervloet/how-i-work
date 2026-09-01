@@ -1,54 +1,54 @@
-# Building a Communication Standard Across a 100-Person Org
+# Building a communication standard across a 100-person org
 
 > A case study in noticing the problem nobody owned.
 
-**Role:** Lead Engineer (acting cross-functionally)
+**Role:** Lead Engineer, working outside my remit
 **Company:** VeVe (Orbis Blockchain Technologies)
-**Timeframe:** 2022–2023
-**Skills demonstrated:** Stakeholder synthesis · Change management · Cross-functional facilitation · Durable systems thinking
+**Timeframe:** 2022-2023
+**Skills:** Stakeholder synthesis · Change management · Cross-functional facilitation
 
 ---
 
-## The Situation
+## The situation
 
-I spent six years at VeVe, a Web3 platform with two million users and a growing engineering org of around 100 people across product, engineering, design, and operations. As we scaled from a small startup into a real company, I noticed something that nobody seemed to be talking about. Every team communicated differently, and the gap between the best-communicating teams and the worst was massive.
+VeVe was a Web3 collectibles platform with two million users. By 2022 the company had grown to roughly 100 people across product, engineering, design, and operations, and the way we communicated hadn't scaled with the headcount.
 
-Some teams ran tight async standups in Slack with clear written updates. Others held three meetings a day where decisions were made and then forgotten. Some PMs wrote rich, contextual specs. Others sent a one-line message and expected engineers to figure it out. The result was predictable: teams with strong communication habits shipped consistently. Teams without them missed deadlines, repeated work, and burned out faster.
+The spread between teams was enormous. Some ran tight async standups in Slack with written updates you could actually read a week later. Others held three meetings a day and made decisions that nobody wrote down. Some PMs wrote specs with real context in them; others sent a one-line message and expected engineers to work it out. You could predict a team's delivery record from its communication habits with depressing accuracy.
 
-Nobody owned this problem. It was not on any roadmap. It was not anyone's KPI. It was just quietly costing the company time and morale every week.
+Nobody owned this. It wasn't on a roadmap or in anyone's KPIs. It just cost us time and morale every week, in amounts too small to trigger anyone's alarm.
 
-## The Task I Set Myself
+## What I set out to do
 
-I decided to fix it, even though it was not in my job description. The goal was simple to state and harder to execute: produce a single, shared document that captured the best communication practices already happening inside the company, and get enough buy-in across teams that people would actually use it.
+Fix it, without being asked to. I wanted one shared document that captured the practices already working inside the company, with enough buy-in that people would actually use it.
 
-I knew that a top-down doc written by one person would be ignored. The only version that would work was one that the teams felt they had built themselves.
+The constraint was obvious from the start: a doc written top-down by one engineer would be ignored, and rightly so. The only version with a chance was one the teams felt they'd written themselves.
 
-## The Action I Took
+## What I did
 
-I started by listening. I spent a few weeks paying close attention to how different teams communicated. What worked. What broke down. Which patterns appeared in the high-performing teams that were absent in the others. I took notes without telling anyone what I was doing.
+I started by watching. For a few weeks I paid attention to how different teams ran, took notes on what worked and what fell over, and told nobody what I was doing. I wanted the observations before anyone started performing for me.
 
-Then I pulled together small working groups, two or three people from each team, picked deliberately for their willingness to engage critically. I framed the conversation not as "let me tell you how to communicate" but as "what is working for your team, what is not, and what would you steal from someone else if you could?"
+Then I pulled together small working groups, two or three people per team, chosen for their willingness to be critical rather than agreeable. I framed it as a question rather than a proposal: what's working on your team, what isn't, and what would you steal from another team if you could?
 
-The first draft of the document came out of those conversations, not out of my own opinions. I synthesized what I heard, wrote it up, and brought it back to the same groups for revision. We iterated through three or four rounds. Each round, the document got sharper and the people involved became more invested. By the time it was ready to share company-wide, it was not my document anymore. It belonged to the people who had shaped it.
+The first draft came out of those conversations rather than my own opinions. I wrote up what I'd heard and brought it back to the same groups. We went through three or four rounds. Each pass sharpened the document and, more usefully, deepened the investment of the people in the room. By the time it was ready to go company-wide it wasn't mine.
 
-I rolled it out through the same working groups, asking them to champion it within their teams. No mandate from above. Just peers showing peers a better way to work.
+I rolled it out through those same working groups and asked them to champion it inside their teams. No mandate from above. Peers showing peers.
 
-## The Result
+## What happened
 
-The document became the de facto communication standard at the company. Teams referenced it in onboarding for new hires. PMs and engineers cited it in disagreements about scope and process. The high-performing teams used it as validation. The struggling teams used it as a roadmap.
+It became the de facto communication standard. New hires got it during onboarding. PMs and engineers cited it in scope arguments. Strong teams used it as validation and struggling teams used it as a to-do list.
 
-I left the company about a year later. **The document is still in active use today, more than two years after I last touched it.** That is the outcome I am most proud of from my entire time at VeVe. Not a feature I shipped. Not a number I moved. A piece of work that outlived my presence and continues to make the company better without me.
+I left VeVe a couple of years later. **The document is still in active use.** That's the outcome I'm proudest of from my whole time there. Not a feature. Not a metric I moved. A piece of work that outlived me and keeps paying out with nobody pushing it.
 
-## What I Took From It
+## What I took from it
 
-1. **The most valuable problems are often the ones nobody owns.** If something is quietly slowing the team down and there is no roadmap entry for it, that is a sign you can have outsized impact by just deciding to fix it.
+**The problems nobody owns are the ones worth taking.** If something slows the team down every week and has no roadmap entry, that's an opening. You get outsized impact for the simple reason that nobody is competing for the work.
 
-2. **People will adopt a process they helped build. They will resist a process they were handed.** The slow path of co-creation is faster than the fast path of mandate, every time.
+**People adopt what they helped build and resist what they were handed.** Co-creation looks like the slow path and finishes first. I've never seen it go the other way.
 
-3. **Documents that survive their authors are the goal.** If a thing only works while you are personally pushing it, it is not really working.
+**A document that survives its author is the whole point.** If a thing only works while you're personally pushing it, it isn't working. It's just you, working.
 
-This case study is also why I started thinking seriously about product roles. The skills that made this project succeed — listening before prescribing, synthesizing across stakeholders, building consensus through iteration — are PM skills, even though I was an engineer when I did the work.
+One more thing, in hindsight. Listening before prescribing, synthesizing across stakeholders, building agreement through iteration: these are product skills, and I was doing them as an engineer. This project is a large part of why I started looking at product roles seriously.
 
 ---
 
-[← Back to case studies](../README.md) · [About me](https://github.com/alexander-vervloet)
+[← Back to case studies](../README.md)
