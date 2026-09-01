@@ -81,7 +81,7 @@ A document I built with cross-functional input that became the company's communi
 
 ### [Building an agent runtime that can be trusted with irreversible actions](./case-studies/deskhand.md)
 
-A support agent allowed to refund money, and the five invariants that make that defensible. Each one has a test that attacks it rather than confirming it. Includes the bug where a search failure became a permissions failure.
+A support agent allowed to refund money, and the five invariants that make that defensible. Each one has a test that attacks it rather than confirming it, and 25 trajectory evals gate the merges. Includes the bug where a search failure became a permissions failure.
 
 *Agent runtime design · Prompt injection defence · Eval design*
 
