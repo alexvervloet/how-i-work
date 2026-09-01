@@ -1,58 +1,58 @@
-# Closing the Next.js Knowledge Gap Before It Cost Us Months
+# Closing the Next.js knowledge gap before it cost us months
 
-> A case study in turning a learning curve into a launchpad.
+> A case study in teaching a team something before they need it.
 
-**Role:** Lead Frontend Engineer (web platform)
+**Role:** Lead Frontend Engineer, web platform
 **Company:** VeVe (Orbis Blockchain Technologies)
 **Timeframe:** 2024
-**Skills demonstrated:** Knowledge gap identification · Cross-functional teaching · Onboarding design · Self-directed initiative
+**Skills:** Knowledge gap identification · Cross-functional teaching · Onboarding design
 
 ---
 
-## The Situation
+## The situation
 
-In 2024, VeVe's leadership made the call to rebuild our React web application as a "2.0" version in Next.js. The reasoning was sound. We wanted server-side rendering, we badly needed the SEO benefits our existing app could not provide, and Next.js was the obvious modern path forward.
+In 2024 leadership decided to rebuild our React web app as a 2.0 in Next.js. The reasoning held up: we wanted server-side rendering, we badly needed SEO that the existing client-rendered app was never going to give us, and Next.js was the obvious route.
 
-There was just one problem nobody was talking about. Next.js at the time was relatively new, and the version we were targeting introduced a meaningful shift in how engineers needed to think about React applications. The App Router, server components, server actions, the new caching model, the boundaries between client and server code. None of this matched the mental model our engineers had built up over years of working with traditional client-side React.
+The problem nobody was raising was that the App Router had only been stable for about a year, and it wasn't a new API so much as a different way of thinking about a React app. Server components, server actions, the caching model, the client/server boundary. None of it mapped onto the mental model our engineers had built over years of client-side React, and some of it actively contradicted it.
 
-The team was about to start building. Leadership assumed everyone was ready. The engineers, in private conversations, mostly were not. There was a knowledge gap, and if we hit it at full speed it was going to cost us weeks, possibly months, of false starts and rework.
+The team was days from starting. Leadership assumed everyone was ready. In one-on-one conversations, most engineers admitted they weren't. That gap was going to cost us weeks of false starts and rework, and I thought there was a real chance of months.
 
-## The Task I Set Myself
+## What I set out to do
 
-I decided to close the gap before we ran into it. The goal was to get the entire engineering team, not just the frontend and fullstack engineers who would be writing the most code, fluent enough in Next.js to work confidently from day one of the rebuild. I also wanted leadership and PMs to come along for the ride, because some of the new architectural concepts had product implications they would need to understand to make good scoping decisions.
+Close it before we hit it. The target was the whole engineering team fluent enough to work confidently from day one, not just the frontend and fullstack engineers writing most of the code. I also wanted leadership and PMs in the room, because several of the new architectural concepts had direct product consequences they'd need to understand to scope anything sensibly.
 
-This was not in my job description. Nobody asked me to do it. But it was clearly going to slow us down if I did not.
+Nobody asked me to do this. It was going to slow us down if I didn't.
 
-## The Action I Took
+## What I did
 
-I built a comprehensive educational presentation on Next.js. The technical core covered the most important features, functionalities, syntaxes, and the gotchas I knew the team would otherwise discover the hard way. I focused on the things that would actually trip people up in practice, not the encyclopedia of every feature.
+I built a full teaching presentation. The technical core covered the features, the syntax, and specifically the gotchas I knew the team would otherwise find the hard way. I picked for what trips people up in practice rather than trying to cover the documentation.
 
-But I made a deliberate choice to do something more than just teach Next.js. I added an entire opening section on the history of web architecture, going back to the early days of PHP-based server-side rendering, walking through how the industry shifted to client-side single-page apps, and explaining why the pendulum was now swinging back toward server rendering with frameworks like Next.js. I wanted the team to understand not just how Next.js worked, but why it existed and what problems it was solving.
+Then I did something less obvious. I opened with a section on the history of web architecture: PHP-era server rendering, the shift to client-side single-page apps and the reasons for it, and why the pendulum was swinging back toward the server. I wanted the team to know why Next.js exists and what it's a reaction to, not only how to use it.
 
-That historical context turned out to be the most important part. Engineers who understood the why grasped the how much faster. PMs and leadership who sat in were able to follow along because the story was anchored in something concrete, not just framework jargon.
+That history section turned out to be the part that mattered. Engineers who understood the why picked up the how much faster. PMs and leadership could follow it, because the story was anchored in something concrete instead of framework vocabulary.
 
-I also leaned into humor, deliberately. Complex technical concepts land better when the audience is enjoying themselves, and a lot of the new Next.js paradigms have genuinely funny edge cases if you know how to point them out. I broke ideas down into language that a PM with no React experience could follow, then layered the technical depth on top for the engineers.
+I also leaned on humor, on purpose. Dense technical material lands better when people are enjoying themselves, and several of the new Next.js paradigms have genuinely funny edge cases once you know where to look. I pitched each idea so a PM with no React experience could follow it, then layered the depth on top for the engineers.
 
-I presented it to the entire engineering org rather than just the frontend team. Backend engineers, infrastructure folks, leadership, PMs who chose to join. Everyone got the same baseline.
+I presented to the whole engineering org. Backend, infrastructure, leadership, and any PM who wanted to come. Everyone left with the same baseline.
 
-## The Result
+## What happened
 
-The team was building productively in Next.js within days, not weeks. Our initial 2.0 app went from "we are starting" to "we have a working version" in **a matter of weeks rather than the months** a typical migration of that scope would have taken.
+The team was building productively within days rather than weeks, and the initial 2.0 app went from kickoff to a working version in **weeks rather than the months** a migration of that scope usually takes.
 
-The shared baseline also paid off in unexpected ways. PMs writing tickets used Next.js terminology correctly from the start. Backend engineers asking about caching behavior knew what questions to ask. Discussions in code review and architecture meetings happened at a higher level because everyone was working from the same foundation. The historical framing in particular kept getting referenced in conversations months later as a shared mental model the team could draw on.
+The shared baseline paid off in ways I hadn't planned for. PMs used Next.js terminology correctly in tickets from the start. Backend engineers asking about caching knew which questions were the right ones. Code review and architecture discussions started higher up, because we weren't spending the first ten minutes establishing common ground. People were still referring back to the history framing months later.
 
-The presentation itself became a reference document and was used to onboard new engineers who joined the project after the initial rollout.
+The deck became a reference doc, and we used it to onboard engineers who joined the project after the rollout.
 
-## What I Took From It
+## What I took from it
 
-1. **The most underrated form of leadership is closing a gap nobody is treating as a blocker.** Most engineering teams have at least one of these at any given time. A new technology nobody fully understands. A part of the codebase everyone is afraid to touch. A process that everyone agrees is broken but nobody owns. The person who quietly fixes one of these without being asked has more impact than someone who ships a high-visibility feature.
+**Closing a gap nobody has labeled a blocker is underrated leadership.** Most teams have one at any given time. A technology nobody fully understands, a corner of the codebase everyone routes around, a process everyone agrees is broken and nobody owns. Fixing one of those quietly beats shipping a visible feature, and it's much less contested territory.
 
-2. **Teaching the why is more valuable than teaching the how.** When someone understands the historical and conceptual context for a tool, they can reason about it from first principles. When they only know the syntax, they are stuck whenever the situation does not match what they were shown.
+**Teach the why and the how comes cheap.** Give someone the historical and conceptual context for a tool and they can reason about situations you never showed them. Give them only the syntax and they're stuck the moment reality diverges from the example.
 
-3. **Education is most powerful when it includes people who do not technically need it.** Including PMs and leadership in a technical presentation is unconventional, but it pays off in every conversation that comes after. They make better decisions. They ask better questions. They write better tickets.
+**Include the people who don't technically need it.** Putting PMs and leadership in a technical session is unconventional and it pays for itself in every conversation afterward. Better decisions, better questions, better tickets.
 
-4. **If you cannot make it interesting, you have not understood it well enough.** Anyone can recite documentation. The work of finding the right metaphor, the right joke, the right historical anchor, that is the work of actually understanding something well enough to teach it.
+**If you can't make it interesting, you don't understand it well enough yet.** Anyone can recite the docs. Finding the right metaphor or the right joke is the part that requires actually knowing the material.
 
 ---
 
-[← Back to case studies](../README.md) · [About me](https://github.com/alexander-vervloet)
+[← Back to case studies](../README.md)
